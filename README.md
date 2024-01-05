@@ -1,4 +1,4 @@
-# Python for DevOps: Unleashing Automation and Efficiency. 
+# Python for DevOps: Unleashing Automation and Efficiency. ... 
 Welcome to the Python for DevOps repository, where coding meets deployment magic! 🚀
 
 ## What's Inside
