@@ -1,7 +1,7 @@
 # Python for DevOps: Unleashing Automation and Efficiency
 Welcome to the Python for DevOps repository, where coding meets deployment magic! 🚀
 
-## What's Inside..jg
+## What's Inside..j
 **Automation Alchemy:** Learn how Python scripts can perform the heavy lifting, automating mundane tasks and leaving you with more time for innovation. 
 
 **Infrastructure as Code (IaC):** Discover the art of managing and provisioning infrastructure seamlessly using Python, making your deployment processes a breeze.
