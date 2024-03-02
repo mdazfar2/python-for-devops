@@ -1,4 +1,4 @@
-![Banner GitHub](https://i.ibb.co/YXKsW5y/aizz-python.png)m
+![Banner GitHub](https://i.ibb.co/YXKsW5y/aizz-python.png)
 
 
 # Python for DevOps: Unleashing Automation and Efficiency
