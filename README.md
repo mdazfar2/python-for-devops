@@ -1,7 +1,7 @@
 ![Banner GitHub](https://i.ibb.co/YXKsW5y/aizz-python.png)
 
 
-# Python for DevOps: Unleashing Automation and Efficiency.....
+# Python for DevOps: Unleashing Automation and Efficiency....
 Welcome to the Python for DevOps repository, where coding meets deployment magic! 🚀
 
 ## What's Inside
