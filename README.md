@@ -17,3 +17,5 @@ Welcome to the Python for DevOps repository, where coding meets deployment magic
 Have questions, ideas, or just want to chat? Join the conversation on [Discord](https://discordapp.com/users/877531143610708028)
 
 Happy coding! 🐍✨
+
+ <!-- Thanks for Visiting 💚 -->
